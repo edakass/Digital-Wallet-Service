@@ -127,6 +127,10 @@ Interactive API documentation is available at:
 
 👉 http://localhost:1007/swagger-ui/index.html#/
 
+Screenshot from Swagger
+
+![Screenshot 2025-08-03 at 23.00.17.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fp1%2Fk1cf285d5hl44_3nsqv4pyvm0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_X3adOP%2FScreenshot%202025-08-03%20at%2023.00.17.png)
+
 >  ℹ️ Port 1007 is used by default in this project. If you change the port in application.properties, update the URL accordingly.
 
 ## 🔐 JWT Auth
